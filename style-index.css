@@ -1,0 +1,69 @@
+.background-image {
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("images/vacar.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page {
+  max-width: 800px;
+  padding: 30px;
+  margin: auto;
+  height: 1300px;
+  background: rgba(0, 0, 0, 0.58);
+}
+
+.header {
+  padding-top: 210px;
+  text-align: center;
+  color: rgb(83, 83, 82);
+  height: 150px;
+}
+
+.car-parking {
+  margin-bottom: 50px;
+}
+
+.light {
+  margin-bottom: 60px;
+}
+
+.countcar {
+  margin-bottom: 50px;
+}
+
+.car-img {}
+
+.count-img {
+  margin-top: 20px;
+}
+
+.ava {
+  padding-top: 150px;
+  font-size: 15px;
+  color: white;
+}
+
+.text-space {
+  margin: 70px;
+  float: right;
+  font-size: 100px;
+  color: white;
+}
+
+.text-l {
+  font-size: 90px;
+  margin-top: 50px;
+}
+
+.text-car {
+  margin-left: 120px;
+  font-size: 100px;
+  color: white;
+}
